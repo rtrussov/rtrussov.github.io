@@ -1,0 +1,5 @@
+iframe[id^='twitter-widget-0'] {
+    height:1000px !important;
+    margin-bottom:10px !important;
+    width:100% !important;
+}
